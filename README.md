@@ -22,7 +22,7 @@ It showcases the tasks performed, skills gained, and overall contribution made d
 For any queries or collaboration, feel free to reach out:  
 **Name:** Shlok Rawat  
 **Field:** Cybersecurity  
-**Email:** (Add your email here)
+
 
 ---
 ⭐ *If you found this useful or inspiring, consider giving the repository a star!*
